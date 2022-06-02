@@ -42,4 +42,4 @@ pm2 start src/index.js -i max --name "cluster-server"
 # Entrega de desafío:
 
 _La respuesta a la consigna la encontrará en la siguiente ruta:_
-> ubicación: "./terceraEntrega_proyectoFinal.md"
+> ubicación: "./desafio.md"
